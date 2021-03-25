@@ -1,4 +1,4 @@
-# 30 Days for Projects
+# 30 Projects
 
 ## I am making this project just to learn more i guess. 
 

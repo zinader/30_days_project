@@ -31,6 +31,7 @@ h1{
 
 h2{
 	margin-left: 35px;
+  margin-right: 35px;s
 	font-size: 30px;
 }
 
@@ -47,5 +48,9 @@ h5{
 
 body a{
   color: #8d99ae !important;
+}
+
+body li a{
+  color: #2b2d42 !important;
 }
 
